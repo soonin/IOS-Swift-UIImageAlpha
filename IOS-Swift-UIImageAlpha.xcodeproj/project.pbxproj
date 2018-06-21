@@ -12,6 +12,7 @@
 		FA243AF020DC461F0049DC4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA243AEE20DC461F0049DC4A /* Main.storyboard */; };
 		FA243AF220DC46200049DC4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA243AF120DC46200049DC4A /* Assets.xcassets */; };
 		FA243AF520DC46200049DC4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA243AF320DC46200049DC4A /* LaunchScreen.storyboard */; };
+		FA243AFD20DC47760049DC4A /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA243AFC20DC47760049DC4A /* Extentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA243AF120DC46200049DC4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA243AF420DC46200049DC4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA243AF620DC46200049DC4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA243AFC20DC47760049DC4A /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FA243AEA20DC461F0049DC4A /* AppDelegate.swift */,
 				FA243AEC20DC461F0049DC4A /* ViewController.swift */,
+				FA243AFC20DC47760049DC4A /* Extentions.swift */,
 				FA243AEE20DC461F0049DC4A /* Main.storyboard */,
 				FA243AF120DC46200049DC4A /* Assets.xcassets */,
 				FA243AF320DC46200049DC4A /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				FA243AED20DC461F0049DC4A /* ViewController.swift in Sources */,
 				FA243AEB20DC461F0049DC4A /* AppDelegate.swift in Sources */,
+				FA243AFD20DC47760049DC4A /* Extentions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
